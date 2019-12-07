@@ -1,3 +1,3 @@
 # JavaScript
 
-#jaavScript is an opem source scripting language.
+#javaScript is an open source scripting language.
